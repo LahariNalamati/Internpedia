@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import tkinter as tk
 import tkinter.messagebox
 import random
@@ -135,14 +129,6 @@ special_char_label = tk.Label(window, text="Special Characters: 0", bg='lightgra
 special_char_label.pack()
 window.mainloop()
 
-
-# In[1]:
-
-
-pip install pyperclip
-
-
-# In[ ]:
 
 
 
